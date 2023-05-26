@@ -1,3 +1,3 @@
 # CRUDS
 CRUDS of JS (Nouvil academy)
-javascript
+Products Management System by javascript
